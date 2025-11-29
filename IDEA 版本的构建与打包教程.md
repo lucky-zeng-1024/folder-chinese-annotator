@@ -1,6 +1,6 @@
 # IDEA 版本的构建与打包教程
 
-本教程指导你如何为不同版本的 IntelliJ IDEA 构建并打包本插件（Chinese Name Annotator）。支持 Windows / macOS / Linux，支持离线构建。
+本教程指导你如何为不同版本的 IntelliJ IDEA 构建并打包本插件（Folder Chinese Annotator）。支持 Windows / macOS / Linux，支持离线构建。
 
 ---
 

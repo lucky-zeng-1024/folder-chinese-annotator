@@ -8,7 +8,7 @@ import org.jetbrains.annotations.Nullable;
 import javax.swing.*;
 
 /**
- * Project-level configurable for Chinese Name Annotator plugin.
+ * Project-level configurable for Folder Chinese Annotator plugin.
  */
 public class ChineseNameConfigurable implements Configurable {
 
@@ -22,7 +22,7 @@ public class ChineseNameConfigurable implements Configurable {
     @Nls(capitalization = Nls.Capitalization.Title)
     @Override
     public String getDisplayName() {
-        return "Chinese Name Annotator";
+        return "Folder Chinese Annotator";
     }
 
     @Nullable

@@ -56,7 +56,7 @@
 ### 场景 3：管理所有标注
 
 1. 打开 Settings/Preferences
-2. 导航到 Tools → Chinese Name Annotator
+2. 导航到 Tools → Folder Chinese Annotator
 3. 查看所有已配置的标注
 4. 可以：
    - 修改 "Hide Original" 列的值
@@ -71,14 +71,14 @@
 
 - 确保你已经保存了标注（点击 OK）
 - 尝试刷新项目树（F5）
-- 检查 Settings → Tools → Chinese Name Annotator 中是否有配置
+- 检查 Settings → Tools → Folder Chinese Annotator 中是否有配置
 
 ### Q: 如何删除标注？
 
 **A**:
 
 - 方式 1：右键点击文件夹 → Add Chinese Annotation → 清空中文名称 → OK
-- 方式 2：Settings → Tools → Chinese Name Annotator → 选择行 → Delete
+- 方式 2：Settings → Tools → Folder Chinese Annotator → 选择行 → Delete
 
 ### Q: 配置文件在哪里？
 

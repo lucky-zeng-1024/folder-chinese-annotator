@@ -1,2 +1,2 @@
-rootProject.name = "chinese-name-plugin"
+rootProject.name = "chinese-annotator-plugin"
 

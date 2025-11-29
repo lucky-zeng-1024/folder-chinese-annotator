@@ -1,4 +1,4 @@
-# Chinese Name Annotator Plugin
+# Folder Chinese Annotator Plugin
 
 一个 IntelliJ IDEA 插件，为项目树中的文件夹添加中文标注。
 
@@ -7,7 +7,7 @@
 - ✨ **为文件夹添加中文标注** - 在项目树中为任何文件夹添加中文名称
 - 🎯 **灵活的显示方式** - 可以同时显示原始名称和中文标注，或仅显示中文名称
 - 💾 **持久化配置** - 配置自动保存到项目设置中
-- ⚙️ **项目级配置** - 在 Settings → Tools → Chinese Name Annotator 中管理所有标注
+- ⚙️ **项目级配置** - 在 Settings → Tools → Folder Chinese Annotator 中管理所有标注
 - 🖱️ **右键菜单快速操作** - 在项目树中右键点击文件夹快速添加标注
 
 ## 使用方法
@@ -23,7 +23,7 @@
 ### 方式二：设置面板
 
 1. 打开 Settings/Preferences
-2. 导航到 Tools → Chinese Name Annotator
+2. 导航到 Tools → Folder Chinese Annotator
 3. 查看所有已配置的标注
 4. 可以编辑或删除标注
 
